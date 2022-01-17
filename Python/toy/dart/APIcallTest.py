@@ -13,7 +13,8 @@ FILENAME = ""
 saveFileDir = f"{get_project_root()}\\data\\dart\\corpcode"
 print("회사코드 저장 경로: ", saveFileDir)
 
-API_KEY = "a27a4e6bf5d8701810d49839d64922a438b03918"
+saveFileDir = "c:\KhAPI\data\dart\corpcode";
+API_KEY = "발급한 API 키를 입력하세요"
 
 def down_corp_codeXML(API_KEY, saveFileDir):
     url = "https://opendart.fss.or.kr/api/corpCode.xml?crtfc_key="
@@ -72,11 +73,11 @@ def parse_corp_code(saveFileDir):
 
 
 abc = parse_corp_code(saveFileDir)
-good =list(zip(abc[0], abc[1], abc[2]))
+res = {"corp_code": abc[0], "stock_code":abc[1], "corp_name":abc[2]}
 
 # for a in good:
 #     print(a)
 
-p1 = pd.Series(good)
+p1 = pd.DataFrame(res)
 
-print(p1)
+print(p1['stock_code'].tail())

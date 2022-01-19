@@ -7,6 +7,7 @@ import pandas as pd
 import tool.API_KEY
 from tool.utils import get_project_root
 
+print(sys.path)
 # 한번이라면 
 # CORPCODE.xml 저장 경로: 
 # c:\KhAPI\Python\toy\data\dart\corpcode  

@@ -19,3 +19,4 @@ def remove_folder(path):
              raise Exception("폴더를 찾을 수 없습니다.")
     except Exception as e:
         print("예외 발생.", e)
+        

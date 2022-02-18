@@ -1,0 +1,45 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: XingAPI_Sample_eSearch - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\B15NP\AppData\Local\Temp\RSP2F8D.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/XingAPI_Sample_eSearch.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\eBest\XingAPI_2015\Source\xingAPI2012\Source\xingAPI\Sample\XingAPI_Sample_eSearch\ChildFrm.cpp"
+]
+Creating command line "cl.exe @C:\Users\B15NP\AppData\Local\Temp\RSP2F8D.tmp" 
+Creating temporary file "C:\Users\B15NP\AppData\Local\Temp\RSP2F8E.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/XingAPI_Sample_eSearch.pdb" /debug /machine:I386 /out:"Debug/XingAPI_Sample_eSearch.exe" /pdbtype:sept 
+.\Debug\ChildFrm.obj
+.\Debug\ChildView.obj
+.\Debug\DlgExcludeItem.obj
+.\Debug\DlgTRBar.obj
+.\Debug\MainFrm.obj
+.\Debug\scbarg.obj
+.\Debug\sizecbar.obj
+.\Debug\StdAfx.obj
+.\Debug\TRBar.obj
+.\Debug\XingAPI_Sample_eSearch.obj
+.\Debug\DlgLogin.obj
+.\Debug\Dlg_t1857.obj
+.\Debug\Dlg_t1866.obj
+.\Debug\XingAPI_Sample_eSearch.res
+]
+Creating command line "link.exe @C:\Users\B15NP\AppData\Local\Temp\RSP2F8E.tmp"
+<h3>Output Window</h3>
+Compiling...
+ChildFrm.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+XingAPI_Sample_eSearch.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

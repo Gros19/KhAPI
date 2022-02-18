@@ -1,0 +1,173 @@
+[13:06:44]:CNKVersionUpApp::InitInstance CShareMem::IsShareMemCreated(CShareMem::MAPFILENAME_SHARED_MEM) : FALSE
+[13:06:44]:==>CNKVersionUpDlg::OnInitDialog() : C:\KhAPI\OpenAPI
+[13:06:44]:==>CNKVersionUpDlg::CompareStarter()
+[13:06:44]:NKStarter 프로세스 종료됨
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_absolutedown.ini]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_aossdk.dll]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_aossdkrad.dll]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_asplnchr.exe]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_astxmanager.dll]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\astxsdk/_atstrust.dll]
+[13:06:44]:manifest 파일 다운됨 ####### strFname [astxsdk/microsoftvc90crt.manifest],  strFind [C:\KhAPI\OpenAPI\astxsdk/_microsoftvc90crt.manifest]
+[13:06:44]:manifest 파일 다운됨 ####### strOldFind [C:\KhAPI\OpenAPI\astxsdk\microsoft.vc90.crt.manifest]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\astxsdk/_microsoftvc90crt.manifest]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\astxsdk/_msvcr90.dll]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\astxsdk/_stsdkex.dll]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_default.lic]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_cancel_d.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_cancel_f.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_cancel_u.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_cancel_x.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_check_f.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_check_u.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_close_d.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_close_f.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_close_u.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_close_x.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_config_d.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_config_f.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_config_u.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_config_x.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_idpw_d.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_idpw_f.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_idpw_u.bmp]
+[13:06:44]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_idpw_x.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_join_d.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_join_f.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_join_u.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_join_x.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_login_d.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_login_f.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_login_u.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_login_x.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_ok_d.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_ok_f.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_ok_u.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_ok_x.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_sign_d.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_sign_f.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_sign_u.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_sign_x.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_verclose_d.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_verclose_f.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_verclose_u.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_btn_verclose_x.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_c_btn_ok_d.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_c_btn_ok_f.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_c_btn_ok_u.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_c_btn_ok_x.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_cert_btn_ok_d.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_cert_btn_ok_f.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_cert_btn_ok_u.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_cert_btn_ok_x.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_config_api_bg.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_config_apism_bg.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_login_api_bg.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_login_apism_bg.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_staff_config_api_bg.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_staff_config_apism_bg.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_version_api_bg.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\image/_version_apism_bg.bmp]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inicore_v2.3.32.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inicore_v2.3.42.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inicrypto20.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inicrypto_v5.1.9.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inicrypto_v5.1.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inipki_v5.1.33.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inipki_v5.1.40.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inisafenet_v7.2.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inisafetoolset.lic]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_inisafetoolset_v1.2.2.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_kdfapi2.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_kdfinj.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_khcrypt.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_khcryptcore.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_khcryptex.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_khopenapi.ocx]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_klib.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_librsadlx.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_npe55kb.npn]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_npenkapp5policy_kiwoomcs.xml]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_npenkappinstall5.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_npenkappinstall5message.xml]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_npnv_kiwoom.conf]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_nsldap32v11.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_opcommapi.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_opcomms.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_opstarter.exe]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_opversionup.exe]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_signksc.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcomdcm.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcomdem.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcomdif.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcomdsc.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcommad.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcommcm.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcommem.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcommic.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcommif.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcommjv.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcommsc.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcommtm.exe]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skcommwb.exe]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skmagerapi.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_sksessiondll.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_sksmartcard32.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_skusbkey.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_stsdkex.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\system/_font.ini]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\system/_html.ini]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\system/_ip_api.dat]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\system/_jongacc.dat]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\system/_koarealtime.dat]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\system/_realtime.dat]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\system/_s4bboxdesc.dat]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\system/_s4treelist.dat]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\system/_security_apply.ini]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_unzdll.dll]
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter() : Fine Not Found [C:\KhAPI\OpenAPI\_zipdll.dll]
+[13:06:45]:initrsc.lst 에 있는 파일 중에 _ 붙은 파일을 실제 파일로 모두 변경하였음.
+[13:06:45]:<==CNKVersionUpDlg::CompareStarter()
+[13:06:46]:<== CNKVersionUpDlg::OnOK
+[13:07:02]:********************** Start **********************
+[13:07:02]:********************** Finish **********************
+[13:07:02]:FirstInstance
+[13:07:02]:Gdiplus Init
+[13:07:02]:Socket Init
+[13:07:02]:RegistryKey
+[13:07:02]:---------- Begin ----------
+[13:07:02]:RemoveTempDownloadedFiles
+[13:07:02]:SetVersionFileName
+[13:07:02]:InitControls
+[13:07:02]:CreateSubDirectory
+[13:07:02]:CheckStarterState --- FileCrc [b49bc6f2] : ListCrc [b49bc6f2]
+[13:07:02]:Read
+[13:07:02]:Read Security [1] Install[0]
+[13:07:03]:ASTX Procted ID 0 PWD 0 CERT 0
+[13:07:03]:ASTX Proc Done
+[13:07:03]:AutoStart
+[13:07:03]:Load Image
+[13:07:03]:Server_Imit [SVRIP0]  IP=MainIP  port=MainPort
+
+[13:07:03]:ConfigPath
+[13:07:03]:VerupFailDlg Check
+[13:07:03]:InitDlg  etc read[0] [User ID][ ][ ]
+[13:07:03]:ShareMem
+[13:07:03]:---------- End ----------
+[13:07:10]:Server_Imit [SVRIP0]  IP=MainIP  port=MainPort
+
+[13:07:10]:Server Socket 접속중...
+[13:07:10]:Server Socket 접속성공...
+[13:07:10]:교환이 완료될 때 까지 기다림
+[13:07:21]:IsServerBlock HttpFile lenth [805]
+[13:07:21]:IsServerBlock HttpFile Read [805] Value [<]
+[13:07:31]:소켓 연결에 실패했습니다. [10060]
+[13:07:43]:OnBnClickedCancel SetEvent[00000238].. bCancel[1], bUser[0], bRetry[0]
+[13:08:04]:Server_Imit [SVRIP0]  IP=MainIP  port=MainPort
+
+[13:08:04]:Server Socket 접속중...
+[13:08:04]:Server Socket 접속성공...
+[13:08:04]:교환이 완료될 때 까지 기다림
+[13:08:25]:소켓 연결에 실패했습니다. [10060]
+[13:08:43]:OnBnClickedCancel SetEvent[00000238].. bCancel[1], bUser[0], bRetry[0]
+[13:08:56]:OnBnClickedCancel SetEvent[00000238].. bCancel[0], bUser[0], bRetry[0]

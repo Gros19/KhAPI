@@ -12,7 +12,8 @@ key2 = json_data["key2"]
 dart.set_api_key(api_key=key1)
 print("api :",dart.get_api_key)
 # 삼성전자 code 
-# corp_code = '00126380'
+# corp_code = '00126380'   
+##
 # sk code
 corp_code = '00181712'
 result = dart.api.info.stock_totqy_sttus(corp_code=corp_code, bsns_year="2020", reprt_code="11013")

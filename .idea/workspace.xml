@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bf6ad16-24c0-4b19-b47c-bfa266a94a73" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fss/Untitled-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fss/Untitled-1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
       <updated>1663986368613</updated>
       <workItem from="1663986370284" duration="682000" />
       <workItem from="1663987060876" duration="2566000" />
-      <workItem from="1663989695731" duration="279000" />
+      <workItem from="1663989695731" duration="3956000" />
     </task>
     <servers />
   </component>
@@ -67,16 +68,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/kimbogyu/aMyGit/KhAPI/fss/Untitled-1.ipynb</url>
-          <line>40</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
